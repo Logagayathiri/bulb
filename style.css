@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    border: 2px solid black;
+    width:200px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: black;
+    background-color: white;
+    margin-left:35px;
+}
+img{
+    margin-bottom: 70px;
+    margin-left: 35%;
+    border:2px solid black;
+    border-radius: 50px;
+    height: 500px;
+}
+body{
+    background-color: pink;
+}
+#on{
+    width: 100px;
+    height: 50px;
+    margin-left: 430px;
+    font-size: larger;
+    background-color: white;
+    border-radius: 50px;
+}
+#off{
+    width: 100px;
+    height: 50px;
+    margin-left: 410px;
+    font-size: larger;
+    background-color: black;
+    color :white;
+    border:2px solid black;
+    background:black;
+    border-radius: 50px;
+}
